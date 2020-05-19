@@ -1,0 +1,3 @@
+# Project exclude paths
+/JSONClient/target/
+/target/
